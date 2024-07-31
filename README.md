@@ -2,7 +2,7 @@
 
 Oasis doesn't distinguish based on your individual groups. This leads to overlapping calendars. 
 
-This should solve that issue. Disclaimer: limited testing and won't update as Oasis updates (you'd have to rerun code). 
+This should solve that issue. Disclaimer: limited testing on my end so please double check that your final schedlue looks correct. It also won't update as Oasis updates (you'd have to rerun code). 
 
 Here's how you use the tool. 
 
