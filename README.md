@@ -4,6 +4,15 @@ Oasis doesn't distinguish based on your individual groups. This leads to overlap
 
 This should solve that issue. Disclaimer: limited testing on my end so please double check that your final schedlue looks correct. It also won't update as Oasis updates (you'd have to rerun code). 
 
+Before: 
+
+<img width="126" alt="Screenshot 2024-08-05 at 5 27 29 PM" src="https://github.com/user-attachments/assets/7d50b782-9c2b-49b9-bcea-2ed7674f8574">
+
+After: 
+
+<img width="126" alt="Screenshot 2024-08-05 at 5 27 46 PM" src="https://github.com/user-attachments/assets/60a7be78-abcb-4912-a9e1-9f86e5d251c9">
+
+
 Here's how you use the tool. 
 
 1. This only works with Google calendar. Export your Oasis to Google calendar.
